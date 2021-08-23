@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "你永远是我的宝贝！"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "你好，阮小月"
+    }
+  ]
+}
